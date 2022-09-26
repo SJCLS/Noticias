@@ -1,0 +1,67 @@
+#principal {
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #280;
+
+}
+
+.origem {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    color: #280;
+    background-color: #FFF;
+
+}
+
+.tb1 {
+    border: solid 1px black;
+    height: 36px;
+    width: 766px;
+    background-color: #000033;
+}
+
+.titulo {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #FFF;
+}
+
+.resumo {
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #FFF;
+}
+
+.rodape {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 11px ;
+    text-align: center;
+    background-color: #CFB;
+
+}
+
+a:link {
+    color: #0000FF;
+
+}
+
+a:visited {
+    color: #DDC71A
+}
+
+a:active {
+    color: #ac0b44;
+}
+
+a:hover {
+    color: #f00;
+    font-weight: bold;
+
+}
+
